@@ -180,7 +180,7 @@ a.button, .button, button {
   color: #555555;
   text-align: center;
   font-size: 11px;
-  font-weight: 600;
+  font-weight: normal;
   line-height: 38px;
   letter-spacing: .1rem;
   text-transform: uppercase;
@@ -823,7 +823,7 @@ Navbar
         text-decoration: none;
         text-transform: uppercase;
         font-size: 13px;
-        font-weight: 700;
+        font-weight: normal;
         letter-spacing: 0;
         font-family: "Raleway", Helvetica, Arial, sans-serif;
         color: #222;
@@ -1802,7 +1802,7 @@ Responsive
     padding: 0px 6px;
     font-size: 13px;
     letter-spacing: 2px;
-    font-weight: 600; } }
+    font-weight: normal; } }
 
 @media (min-width: 750px) {
   .top-bar .box.box-1, .top-bar .box.box-2 {
@@ -1827,7 +1827,7 @@ Responsive
     padding: 0px 30px;
     font-size: 14px;
     letter-spacing: 2px;
-    font-weight: 600; }
+    font-weight: normal; }
   .article header .meta-data {
     padding: 60px; }
     .article header .meta-data .author time {
